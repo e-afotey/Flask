@@ -6,3 +6,4 @@ What We Will Learn
 2. Python in HTML
 
  Note: It is not nessesary to learn this
+ Only 1 Project.
